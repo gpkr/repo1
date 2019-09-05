@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AA1B-3044
+
+ Directory of C:\Users\priya reddy\Desktop\Gitproj
+
+09/05/2019  05:27 PM    <DIR>          .
+09/05/2019  05:27 PM    <DIR>          ..
+09/05/2019  04:56 PM               361 test1.txt
+09/05/2019  05:27 PM                 0 test2.txt
+               2 File(s)            361 bytes
+               2 Dir(s)  818,482,163,712 bytes free
